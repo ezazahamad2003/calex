@@ -1,0 +1,172 @@
+{
+  "prospects": [
+    {
+      "type": "company",
+      "name": "Letta",
+      "website": "letta.com",
+      "industry": "Artificial Intelligence",
+      "sub_industry": "LLM Memory Management",
+      "business_model": "B2B/SaaS",
+      "company_stage": "Startup",
+      "size": "11-50 employees",
+      "revenue": "Undisclosed",
+      "funding_info": {
+        "stage": "Seed",
+        "recent_funding": "$10M in September 2024",
+        "total_raised": "$10M",
+        "investors": [
+          "Felicis",
+          "Sunflower Capital",
+          "Essence VC",
+          "Jeff Dean",
+          "Clem Delangue"
+        ]
+      },
+      "geographic_info": {
+        "headquarters": "San Francisco, California, USA",
+        "locations": [],
+        "market_focus": "Global"
+      },
+      "description": "Commercializing UC Berkeley's MemGPT research to build stateful memory systems for AI agents, enabling long-term contextual retention and personalized interactions",
+      "target_customers": "Developers building AI agents, enterprise AI teams",
+      "pain_points": "Stateless LLMs requiring repetitive context, limited context windows, lack of personalized AI experiences",
+      "growth_signals": "Recent $10M seed round, viral open-source traction (11k+ GitHub stars), emerging from stealth",
+      "technology_stack": "MemGPT architecture, Python, Docker, cloud infrastructure",
+      "contact_info": {
+        "general_email": "contact@letta.com",
+        "phone": "Not available",
+        "linkedin": "https://www.linkedin.com/company/letta-ai",
+        "address": "San Francisco, CA",
+        "other_channels": "https://twitter.com/lettahq"
+      },
+      "key_contacts": [
+        {
+          "name": "Charles Packer",
+          "title": "Co-founder & CEO",
+          "department": "Executive",
+          "seniority": "C-level",
+          "decision_authority": "Final decision maker",
+          "contact_info": {
+            "email": "charles@letta.com",
+            "linkedin": "https://www.linkedin.com/in/charlespacker",
+            "phone": "Not available",
+            "other": "https://twitter.com/charlespacker"
+          },
+          "background": "PhD UC Berkeley, MemGPT researcher, RL/LLM expert",
+          "recent_activity": "Launched Letta commercial platform, MemGPT open-source maintenance"
+        },
+        {
+          "name": "Sarah Wooders",
+          "title": "Co-founder & CTO",
+          "department": "Engineering",
+          "seniority": "C-level",
+          "decision_authority": "Final decision maker",
+          "contact_info": {
+            "email": "sarah@letta.com",
+            "linkedin": "https://www.linkedin.com/in/sarahwooders",
+            "phone": "Not available",
+            "other": "GitHub: swooders"
+          },
+          "background": "PhD UC Berkeley, AI systems researcher, MemGPT co-creator",
+          "recent_activity": "Technical leadership for Letta Cloud launch"
+        }
+      ],
+      "opportunity_assessment": {
+        "fit_score": 10,
+        "why_good_fit": "Directly solving unlimited memory for LLMs using MemGPT architecture, exactly matches 'long-term memory for AI' focus",
+        "potential_objections": "Competition from OpenAI memory features",
+        "estimated_budget": "$50k-$200k/year",
+        "timeline": "Immediate (actively developing/commercializing)",
+        "competition": "OpenAI, Mem0, LangChain"
+      },
+      "outreach_strategy": {
+        "best_contact_method": "Technical email/LinkedIn",
+        "optimal_timing": "After product updates on X/Twitter",
+        "key_messaging": "Memory management integration, stateful API advantages",
+        "conversation_starters": "Reference MemGPT research paper/showcase use cases"
+      }
+    },
+    {
+      "type": "company",
+      "name": "Mem0",
+      "website": "mem0.ai",
+      "industry": "Artificial Intelligence",
+      "sub_industry": "LLM Memory Infrastructure",
+      "business_model": "B2B/SaaS",
+      "company_stage": "Growth",
+      "size": "11-50 employees",
+      "revenue": "Undisclosed",
+      "funding_info": {
+        "stage": "Seed",
+        "recent_funding": "Undisclosed (YC S24)",
+        "total_raised": "Undisclosed",
+        "investors": [
+          "Y Combinator"
+        ]
+      },
+      "geographic_info": {
+        "headquarters": "San Francisco, California, USA",
+        "locations": [],
+        "market_focus": "Global"
+      },
+      "description": "Building universal memory layer for LLM applications enabling persistent memory, personalized experiences, and continuous learning from interactions",
+      "target_customers": "AI developers, enterprises with AI chatbots",
+      "pain_points": "Stateless AI interactions, repetitive context re-entry, lack of personalization",
+      "growth_signals": "50k+ developer users, SOC 2/HIPAA compliance, YC S24 graduate",
+      "technology_stack": "Hybrid datastore (graph+vector+kv), Python/JS SDKs, Docker/Kubernetes",
+      "contact_info": {
+        "general_email": "hello@mem0.ai",
+        "phone": "Not available",
+        "linkedin": "https://www.linkedin.com/company/mem0-ai",
+        "address": "San Francisco, CA",
+        "other_channels": "https://twitter.com/mem0_ai"
+      },
+      "key_contacts": [
+        {
+          "name": "Taranjeet Singh",
+          "title": "Co-founder & CEO",
+          "department": "Executive",
+          "seniority": "C-level",
+          "decision_authority": "Final decision maker",
+          "contact_info": {
+            "email": "taran@mem0.ai",
+            "linkedin": "https://www.linkedin.com/in/taranjeetsingh",
+            "phone": "Not available",
+            "other": "https://twitter.com/taranjeetio"
+          },
+          "background": "Serial AI entrepreneur (Embedchain creator), YC alum",
+          "recent_activity": "Podcasts/events discussing AI memory layer"
+        },
+        {
+          "name": "Deshraj Yadav",
+          "title": "Co-founder & CTO",
+          "department": "Engineering",
+          "seniority": "C-level",
+          "decision_authority": "Final decision maker",
+          "contact_info": {
+            "email": "deshraj@mem0.ai",
+            "linkedin": "https://www.linkedin.com/in/deshraj",
+            "phone": "Not available",
+            "other": "GitHub: deshraj"
+          },
+          "background": "Ex-Tesla Autopilot engineer, Georgia Tech ML researcher",
+          "recent_activity": "Technical architecture development"
+        }
+      ],
+      "opportunity_assessment": {
+        "fit_score": 9,
+        "why_good_fit": "Self-improving memory layer for unlimited context retention, focus on persistent personalization",
+        "potential_objections": "Pricing model for high-volume usage",
+        "estimated_budget": "$20k-$100k/year",
+        "timeline": "Immediate (actively onboarding enterprises)",
+        "competition": "Letta, OpenAI, custom solutions"
+      },
+      "outreach_strategy": {
+        "best_contact_method": "Technical demo request",
+        "optimal_timing": "During platform feature releases",
+        "key_messaging": "Cost reduction via memory compression, personalization capabilities",
+        "conversation_starters": "Reference open-source traction or YC affiliation"
+      }
+    }
+  ]
+}

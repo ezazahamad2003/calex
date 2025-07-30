@@ -7,11 +7,16 @@ TARGET PROSPECT CRITERIA: {search_prompt}
 CRITICAL OUTPUT REQUIREMENT: You MUST respond with ONLY a valid JSON object. Do not include any explanations, reasoning, thinking process, markdown formatting, or additional text before or after the JSON. Start your response immediately with the opening brace { and end with the closing brace }.
 
 RESEARCH METHODOLOGY:
-- Conduct comprehensive market research using current data (2024-2025)
+- Conduct comprehensive market research using current data
 - Identify prospects with genuine need/interest signals
 - Prioritize actionable leads with verified contact information
 - Focus on decision-makers, influencers, and high-potential targets
-- Look for timing indicators (funding, expansion, problems, growth)
+- Follow an iterative SDR-style prospecting workflow:
+   1. Generate an initial list of prospects that match the target criteria by scanning public sources (news sites, funding databases, social platforms, job boards, etc.).
+   2. Deep-dive into each initial prospect to enrich with firmographic details, buying signals, and verified multi-channel contact information.
+   3. Remove duplicates or prospects that fail to meet the criteria and refine the ideal customer profile as insights emerge.
+   4. Continue searching for additional prospects not already on the list, repeating steps 1-3 until the requested number of qualified prospects is achieved.
+   5. Validate that all information is as current as possible (ideally ≤12 months). For stable or slow-changing organizations where recent data is scarce or unnecessary, older but still relevant information may be included—provided you add a "data_verified" date (YYYY-MM) for each affected field and confirm the details are still accurate.
 
 REQUIRED JSON STRUCTURE:
 
